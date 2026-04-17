@@ -1,0 +1,15 @@
+# Linux Commands Guide 🐧
+
+## 📁 File & Directory Commands
+- ls → list files
+- cd → change directory
+- pwd → show current directory
+- mkdir → create folder
+- rm → delete files
+
+## 📂 Navigation
+- cd .. → go back one folder
+- cd ~ → go to home directory
+
+## 📌 Notes
+These are basic Linux commands I am practicing for DevOps.
